@@ -8,7 +8,7 @@ DadosPessoa {
 <br>   String nome;
 <br>   String dtNascimento;
 <br>   Endereco endereco; 
-<br>   List<< Divida >> dividas{
+<br>   List<<Divida>> dividas{
 <br>       String tipo;
 <br>       double valor;
 <br>      long cnpjInstituicao;
