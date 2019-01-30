@@ -3,7 +3,7 @@ Além dos dados sugeridos, adicionei alguns detalhes às dividas, o que facilita
 
 DadosPessoa {
 
-<br>   String id;
+<br>   String id; (id gerado pelo mongo)
 <br>   long cpf;
 <br>   String nome;
 <br>   String dtNascimento;
